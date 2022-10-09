@@ -1,0 +1,34 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin-left: 0px;
+    font-size: large;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+.object_name{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: orange;
+}
+
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    border: 4px dashed grey;
+}
